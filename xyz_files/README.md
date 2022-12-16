@@ -6,3 +6,5 @@
 
 ### Each xyz file contains the energy calculated using Gaussian 16, Revision C.01. 
 - Calculation specifications: # b3lyp/6-311+G(2d,2p) scrf=(solvent=diethylether) EmpiricalDispersion=GD3BJ
+
+### Structures are already aligned for easy visualization in user-preferred software
