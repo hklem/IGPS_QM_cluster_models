@@ -20,18 +20,18 @@ Inactive fGln123,Inactive,Active,TS2,Leu85,BD*( 1) N 5- H 29,7.09,0,7.96,15.05
 Inactive fGln123,Inactive,Active,TS3,Val51,BD*( 1) N166- H200,0.06,0.05,n/a,0.11
 Inactive fGln123,Inactive,Active,TS3,Gly52,BD*( 1) N167- H196,3.7,5.44,n/a,9.14
 Inactive fGln123,Inactive,Active,TS3,Leu85,BD*( 1) N 8- H 32,4.89,4.17,n/a,9.06
-Inactive Val51,Active,Inactive,TS1,Gly50,BD*( 2) C206- O215,0.43,0.28,0.06,0.77
-Inactive Val51,Active,Inactive,TS1,Val51,BD*( 1) C207- H225,0,0,0,0
-Inactive Val51,Active,Inactive,TS1,Gly52,BD*( 1) N203- H233,0,0,0,0
-Inactive Val51,Active,Inactive,TS1,Leu85,BD*( 1) N 43- H 67,6.07,0,8.22,14.29
-Inactive Val51,Active,Inactive,TS2,Gly50,BD*( 2) C207- O216,0.47,0.11,0.06,0.64
-Inactive Val51,Active,Inactive,TS2,Val51,BD*( 1) C208- H226,0,0,0,0
-Inactive Val51,Active,Inactive,TS2,Gly52,BD*( 1) N204- H234,0,0,0,0
-Inactive Val51,Active,Inactive,TS2,Leu85,BD*( 1) N 44- H 68,7.44,1.69,10.96,20.09
-Inactive Val51,Active,Inactive,TS3,Gly50,BD*( 2) C207- O216,0.34,0,n/a,0.34
-Inactive Val51,Active,Inactive,TS3,Val51,BD*( 1) C208- H226,0,0,n/a,0
-Inactive Val51,Active,Inactive,TS3,Gly52,BD*( 1) N204- H234,0,0,n/a,0
-Inactive Val51,Active,Inactive,TS3,Leu85,BD*( 1) N 44- H 68,4.58,4.57,n/a,9.15
+Inactive Val51,Active,Inactive,TS1,Gly50,BD*( 2) C232- O233,0.1,0.07,n/a,0.17
+Inactive Val51,Active,Inactive,TS1,Val51,BD*( 1) C 44- H 64,0,0,n/a,0
+Inactive Val51,Active,Inactive,TS1,Gly52,BD*( 1) N 41- H 65,9.16,1.66,n/a,10.82
+Inactive Val51,Active,Inactive,TS1,Leu85,BD*( 1) N 69- H 84,4.49,0.48,n/a,4.97
+Inactive Val51,Active,Inactive,TS2,Gly50,BD*( 2) C232- O233,0.23,0.11,n/a,0.34
+Inactive Val51,Active,Inactive,TS2,Val51,BD*( 1) C212- H140,0,0,0,0
+Inactive Val51,Active,Inactive,TS2,Gly52,BD*( 1) N117- H141,7.31,4.97,9.82,22.1
+Inactive Val51,Active,Inactive,TS2,Leu85,BD*( 1) N 5- H 30,7.2,2.34,9.63,19.17
+Inactive Val51,Active,Inactive,TS3,Gly50,BD*( 2) C232- O233,0.15,0.09,0,0.24
+Inactive Val51,Active,Inactive,TS3,Val51,BD*( 1) C205- H225,0,0,0,0
+Inactive Val51,Active,Inactive,TS3,Gly52,BD*( 1) N202- H226,7.71,3.36,11.09,22.16
+Inactive Val51,Active,Inactive,TS3,Leu85,BD*( 1) N 44- H 68,6.76,0,8.37,15.13
 Inactive,Inactive,Inactive,TS1,Val51,BD*( 1) C 23- H167,5.86,0.15,n/a,6.01
 Inactive,Inactive,Inactive,TS1,Gly52,BD*( 1) N 29- H175,0.08,0.34,n/a,0.42
 Inactive,Inactive,Inactive,TS1,Leu85,BD*( 1) N 39- H156,3.72,0.53,n/a,4.25

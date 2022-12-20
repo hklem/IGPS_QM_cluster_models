@@ -3,29 +3,29 @@
 "Single point (Single pt) energy calculation specifications: b3lyp/6-311+G(2d,2p) scrf=(solvent=diethylether) EmpiricalDispersion=GD3BJ",,,,,,,
 ,,,,,,,
 Model,fGln123,Val51,Structure,Geom opt (Hartee),Geom opt (kcal/mol),Single pt (Hartree),Single pt (kcal/mol)
-Inactive,Inactive,Inactive,ES,-5709.932,0,-5713.909,0
-Inactive,Inactive,Inactive,TS,-5709.928,3.011,-5713.904,3.173
-Inactive,Inactive,Inactive,INT1,-5709.939,-3.911,-5713.913,-2.874
-Inactive,Inactive,Inactive,TS1,-5709.895,23.273,-5713.872,23.237
-Inactive,Inactive,Inactive,INT2,-5709.897,22.427,-5713.868,25.368
-Inactive,Inactive,Inactive,TS2,-5709.888,28.011,-5713.86,30.523
-Inactive,Inactive,Inactive,INT3,-5709.897,22.021,-5713.87,24.595
-Inactive,Inactive,Inactive,TS3,-5709.886,28.883,-5713.866,26.613
-Inactive,Inactive,Inactive,INT4,-5709.893,24.801,-5713.875,21.293
-Active,Active,Active,ES,-5709.973,0,-5713.938,0
-Active,Active,Active,TS,-5709.947,16.089,-5713.915,14.532
-Active,Active,Active,INT1,-5709.971,0.961,-5713.937,0.881
-Active,Active,Active,TS1,-5709.948,15.882,-5713.915,14.494
-Active,Active,Active,INT2,-5709.962,6.812,-5713.92,11.43
-Active,Active,Active,TS2,-5709.951,13.615,-5713.911,16.712
-Active,Active,Active,INT3,-5709.954,12.052,-5713.916,13.763
-Active,Active,Active,TS3,-5709.941,19.707,-5713.908,18.679
-Active,Active,Active,INT4,-5709.963,5.986,-5713.93,4.816
-Inactive fGln123,Inactive,Active,ES,-5709.922,0,-5713.9,0
-Inactive fGln123,Inactive,Active,TS1,-5709.9,14.113,-5713.879,12.564
-Inactive fGln123,Inactive,Active,TS2,-5709.898,15.243,-5713.871,17.651
-Inactive fGln123,Inactive,Active,TS3,-5709.89,20.114,-5713.871,17.767
-Inactive Val51,Active,Inactive,ES,-5709.96,0,-5713.931,0
-Inactive Val51,Active,Inactive,TS1,-5709.929,19.603,-5713.896,22.476
-Inactive Val51,Active,Inactive,TS2,-5709.92,25.274,-5713.885,29.051
-Inactive Val51,Active,Inactive,TS3,-5709.912,30.374,-5713.887,27.758
+Inactive,Inactive,Inactive,ES,-5709.932,0.00,-5713.909,0.00
+Inactive,Inactive,Inactive,TS,-5709.928,3.01,-5713.904,3.17
+Inactive,Inactive,Inactive,INT1,-5709.939,-3.91,-5713.913,-2.87
+Inactive,Inactive,Inactive,TS1,-5709.895,23.27,-5713.872,23.24
+Inactive,Inactive,Inactive,INT2,-5709.897,22.43,-5713.868,25.37
+Inactive,Inactive,Inactive,TS2,-5709.888,28.01,-5713.86,30.52
+Inactive,Inactive,Inactive,INT3,-5709.897,22.02,-5713.87,24.60
+Inactive,Inactive,Inactive,TS3,-5709.886,28.88,-5713.866,26.61
+Inactive,Inactive,Inactive,INT4,-5709.893,24.80,-5713.875,21.29
+Active,Active,Active,ES,-5709.973,0.00,-5713.938,0.00
+Active,Active,Active,TS,-5709.947,16.09,-5713.915,14.53
+Active,Active,Active,INT1,-5709.971,0.96,-5713.937,0.88
+Active,Active,Active,TS1,-5709.948,15.88,-5713.915,14.49
+Active,Active,Active,INT2,-5709.962,6.81,-5713.92,11.43
+Active,Active,Active,TS2,-5709.951,13.62,-5713.911,16.71
+Active,Active,Active,INT3,-5709.954,12.05,-5713.916,13.76
+Active,Active,Active,TS3,-5709.941,19.71,-5713.908,18.68
+Active,Active,Active,INT4,-5709.963,5.99,-5713.93,4.82
+Inactive fGln123,Inactive,Active,ES,-5709.922,0.00,-5713.9,0.00
+Inactive fGln123,Inactive,Active,TS1,-5709.900,14.11,-5713.879,12.56
+Inactive fGln123,Inactive,Active,TS2,-5709.898,15.24,-5713.871,17.65
+Inactive fGln123,Inactive,Active,TS3,-5709.890,20.11,-5713.871,17.77
+Inactive Val51,Active,Inactive,ES,-5709.960,0.00,-5713.931,0.00
+Inactive Val51,Active,Inactive,TS1,-5709.944,10.27,-5713.9139,10.96
+Inactive Val51,Active,Inactive,TS2,-5709.939,13.16,-5713.9033,17.58
+Inactive Val51,Active,Inactive,TS3,-5709.922,24.29,-5713.9026,18.02
