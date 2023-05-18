@@ -4,18 +4,18 @@ CPCM ε=4.24,,,,,,,,,,
 ,,,,,,,,,,
 Model,fGln123,Val51,Structure,∆ELEC (kcal/mol),∆SOLV (kcal/mol),∆PAULI (kcal/mol),∆DISP (kcal/mol),∆POL (kcal/mol),∆CT (kcal/mol),∆TOTAL INT E (kcal/mol)
 Inactive,Inactive,Inactive,ES,-35.39,12.85,23.19,-8.56,-1.67,-3.47,-13.05
-Inactive,Inactive,Inactive,TS1,-31.00,11.30,20.70,-8.00,-1.20,-3.00,-11.20
-Inactive,Inactive,Inactive,TS2,-30.30,10.80,20.50,-7.90,-1.20,-3.00,-11.10
-Inactive,Inactive,Inactive,TS3,-31.90,11.30,21.50,-7.50,-1.50,-3.20,-11.40
+Inactive,Inactive,Inactive,TS2,-31.00,11.30,20.70,-8.00,-1.20,-3.00,-11.20
+Inactive,Inactive,Inactive,TS3,-30.30,10.80,20.50,-7.90,-1.20,-3.00,-11.10
+Inactive,Inactive,Inactive,TS4,-31.90,11.30,21.50,-7.50,-1.50,-3.20,-11.40
 Active,Active,Active,ES,-88.37,16.34,92.68,-31.94,-4.78,-13.08,-29.15
-Active,Active,Active,TS1,-86.60,15.10,91.40,-31.60,-4.50,-12.80,-29.00
-Active,Active,Active,TS2,-86.30,15.30,90.60,-31.40,-4.40,-12.60,-28.80
-Active,Active,Active,TS3,-87.20,15.30,92.10,-32.20,-4.50,-12.70,-29.10
+Active,Active,Active,TS2,-86.60,15.10,91.40,-31.60,-4.50,-12.80,-29.00
+Active,Active,Active,TS3,-86.30,15.30,90.60,-31.40,-4.40,-12.60,-28.80
+Active,Active,Active,TS4,-87.20,15.30,92.10,-32.20,-4.50,-12.70,-29.10
 Inactive fGln123,Inactive,Active,ES,-11.11,5.64,5.91,-4.89,-0.16,-0.73,-5.35
-Inactive fGln123,Inactive,Active,TS1,-9.90,5.10,4.90,-4.60,-0.10,-0.70,-5.30
-Inactive fGln123,Inactive,Active,TS2,-9.50,4.50,5.60,-4.70,-0.10,-0.70,-5.00
-Inactive fGln123,Inactive,Active,TS3,-9.30,4.30,5.70,-4.90,-0.20,-0.70,-5.10
+Inactive fGln123,Inactive,Active,TS2,-9.90,5.10,4.90,-4.60,-0.10,-0.70,-5.30
+Inactive fGln123,Inactive,Active,TS3,-9.50,4.50,5.60,-4.70,-0.10,-0.70,-5.00
+Inactive fGln123,Inactive,Active,TS4,-9.30,4.30,5.70,-4.90,-0.20,-0.70,-5.10
 Inactive Val51,Active,Inactive,ES,-89.54,15.17,94.75,-33.94,-4.36,-12.73,-30.64
-Inactive Val51,Active,Inactive,TS1,-73.00,14.90,77.10,-31.70,-3.00,-9.60,-25.30
-Inactive Val51,Active,Inactive,TS2,-72.10,14.70,75.80,-31.80,-2.90,-9.60,-25.80
-Inactive Val51,Active,Inactive,TS3,-76.40,14.50,81.00,-33.50,-3.00,-10.10,-27.50
+Inactive Val51,Active,Inactive,TS2,-73.00,14.90,77.10,-31.70,-3.00,-9.60,-25.30
+Inactive Val51,Active,Inactive,TS3,-72.10,14.70,75.80,-31.80,-2.90,-9.60,-25.80
+Inactive Val51,Active,Inactive,TS4,-76.40,14.50,81.00,-33.50,-3.00,-10.10,-27.50
