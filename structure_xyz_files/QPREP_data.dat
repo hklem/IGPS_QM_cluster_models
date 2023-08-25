@@ -1,0 +1,9 @@
+AQME v 1.4.1 2023/08/19 15:40:07 
+Citation: AQME v 1.4.1, Alegre-Requena, J. V.; Sowndarya, S.; Perez-Soto, R.; Alturaifi, T. M.; Paton, R. S., 2022. https://github.com/jvalegre/aqme
+
+Command line used in AQME: aqme --qprep --program gaussian --qm_input wb97xd/def2qzvpp scrf=(solvent=diethylether) --nprocs 48 --mem 90GB --suffix spc_wb97xd --files active_int1*.xyz --charge -2
+
+o  active_int1 successfully processed at /Users/heidiklem/Desktop/Graduate School/Research-projects/glutaminase-reaction/Manuscript/submission/IGPS_QM_cluster_models/structure_xyz_files/QCALC
+
+Time QPREP: 0.39 seconds
+
