@@ -1,40 +1,32 @@
-﻿Gaussian 16 Revision C.01 calculations,,,,,,,,,,,,,
-"BS1: Geometry optimization (Geom opt) calculations specifications: wb97xd/ 6-31+g(d) on S and O atoms, and 6-31g(d) on C, H and N atoms",,,,,,,,,,,,,
-"BS2: Single point (Single pt) energy calculation specifications: b3lyp/6-311+G(2d,2p) scrf=(solvent=diethylether) EmpiricalDispersion=GD3BJ",,,,,,,,,,,,,
-BS3: Single point (Single pt) energy calculation specifications: wB97X-D/def2QZVPP scrf=(solvent=diethylether) EmpiricalDispersion=GD3BJ,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Model,fGln123,Val51,Structure,Geom opt (Hartee),Relative Geom opt (kcal/mol),Single pt (Hartree),Relative Single pt (kcal/mol),Single pt (Hartree) BS3,Relative Single pt (kcal/mol) BS3,Relative Difference (BS3-BS2),,,
-Inactive,Inactive,Inactive,ES,-5709.9320,0.00,-5713.9090,0.00,-5712.5237,0.00,0.00,,,
-Inactive,Inactive,Inactive,TS1,-5709.9280,3.01,-5713.9040,3.17,-5712.5179,3.67,0.49,,,
-Inactive,Inactive,Inactive,INT1,-5709.9390,-3.91,-5713.9130,-2.87,-5712.5279,-2.65,0.23,,,
-Inactive,Inactive,Inactive,TS2,-5709.8950,23.27,-5713.8720,23.24,-5712.4812,26.69,3.45,,,
-Inactive,Inactive,Inactive,INT2,-5709.8970,22.43,-5713.8680,25.37,-5712.4809,26.88,1.51,,,
-Inactive,Inactive,Inactive,TS3,-5709.8880,28.01,-5713.8600,30.52,-5712.4718,32.58,2.05,,,
-Inactive,Inactive,Inactive,INT3,-5709.8970,22.02,-5713.8700,24.60,-5712.4820,26.16,1.57,,,
-Inactive,Inactive,Inactive,TS4,-5709.8860,28.88,-5713.8660,26.61,-5712.4755,30.27,3.65,,,
-Inactive,Inactive,Inactive,INT4,-5709.8930,24.80,-5713.8750,21.29,-5712.4869,23.12,1.83,,,
-Active,Active,Active,ES,-5709.9730,0.00,-5713.9380,0.00,-5712.5540,0.00,0.00,,,
-Active,Active,Active,TS1,-5709.9470,16.09,-5713.9150,14.53,-5712.5282,16.19,1.66,,,
-Active,Active,Active,INT1,-5709.9710,0.96,-5713.9370,0.88,-5712.5495,2.83,1.95,,,
-Active,Active,Active,TS2,-5709.9480,15.88,-5713.9150,14.49,-5712.5246,18.45,3.95,,,
-Active,Active,Active,INT2,-5709.9620,6.81,-5713.9200,11.43,-5712.5334,12.90,1.47,,,
-Active,Active,Active,TS3,-5709.9510,13.62,-5713.9110,16.71,-5712.5240,18.82,2.11,,,
-Active,Active,Active,INT3,-5709.9540,12.05,-5713.9160,13.76,-5712.5289,15.72,1.95,,,
-Active,Active,Active,TS4,-5709.9410,19.71,-5713.9080,18.68,-5712.5171,23.15,4.47,,,
-Active,Active,Active,INT4,-5709.9630,5.99,-5713.9300,4.82,-5712.5427,7.06,2.24,,,
-Inactive fGln123,Inactive,Active,ES,-5709.9220,0.00,-5713.9000,0.00,,,,,,
-Inactive fGln123,Inactive,Active,TS2,-5709.9000,14.11,-5713.8790,12.56,,,,,,
-Inactive fGln123,Inactive,Active,TS3,-5709.8980,15.24,-5713.8710,17.65,,,,,,
-Inactive fGln123,Inactive,Active,TS4,-5709.8900,20.11,-5713.8710,17.77,,,,,,
-Inactive Val51,Active,Inactive,ES,-5709.9609,0.00,-5713.9296,0.00,,,,,,
-Inactive Val51,Active,Inactive,TS2,-5709.9439,10.62,-5713.9139,9.82,,,,,,
-Inactive Val51,Active,Inactive,TS3,-5709.9393,13.51,-5713.9033,16.47,,,,,,
-Inactive Val51,Active,Inactive,TS4,-5709.9216,24.63,-5713.9026,16.89,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
+﻿Gaussian 16 Revision C.01 calculations,,,,,,,,,,
+"BS1: Geometry optimization (Geom opt) calculations specifications: wb97xd/ 6-31+g(d) on S and O atoms, and 6-31g(d) on C, H and N atoms",,,,,,,,,,
+"BS2: Single point (Single pt) energy calculation specifications: b3lyp/6-311+G(2d,2p) scrf=(solvent=diethylether) EmpiricalDispersion=GD3BJ",,,,,,,,,,
+BS3: Single point (Single pt) energy calculation specifications: wB97X-D/def2QZVPP scrf=(solvent=diethylether) EmpiricalDispersion=GD3BJ,,,,,,,,,,
+,,,,,,,,,,
+Model,fGln123,Val51,Structure,Geom opt (Hartee),Relative Geom opt (kcal/mol),Single pt (Hartree),Relative Single pt (kcal/mol),Single pt (Hartree) BS3,Relative Single pt (kcal/mol) BS3,Relative Difference (BS3-BS2)
+Inactive,Inactive,Inactive,ES,-5709.932,0,-5713.909,0,-5712.5237,0,0
+Inactive,Inactive,Inactive,TS1,-5709.928,3.01,-5713.904,3.17,-5712.5179,3.67,0.49
+Inactive,Inactive,Inactive,INT1,-5709.939,-3.91,-5713.913,-2.87,-5712.5279,-2.65,0.23
+Inactive,Inactive,Inactive,TS2,-5709.895,23.27,-5713.872,23.24,-5712.4812,26.69,3.45
+Inactive,Inactive,Inactive,INT2,-5709.897,22.43,-5713.868,25.37,-5712.4809,26.88,1.51
+Inactive,Inactive,Inactive,TS3,-5709.888,28.01,-5713.86,30.52,-5712.4718,32.58,2.05
+Inactive,Inactive,Inactive,INT3,-5709.897,22.02,-5713.87,24.6,-5712.482,26.16,1.57
+Inactive,Inactive,Inactive,TS4,-5709.886,28.88,-5713.866,26.61,-5712.4755,30.27,3.65
+Inactive,Inactive,Inactive,INT4,-5709.893,24.8,-5713.875,21.29,-5712.4869,23.12,1.83
+Active,Active,Active,ES,-5709.973,0,-5713.938,0,-5712.554,0,0
+Active,Active,Active,TS1,-5709.947,16.09,-5713.915,14.53,-5712.5282,16.19,1.66
+Active,Active,Active,INT1,-5709.971,0.96,-5713.937,0.88,-5712.5495,2.83,1.95
+Active,Active,Active,TS2,-5709.948,15.88,-5713.915,14.49,-5712.5246,18.45,3.95
+Active,Active,Active,INT2,-5709.962,6.81,-5713.92,11.43,-5712.5334,12.9,1.47
+Active,Active,Active,TS3,-5709.951,13.62,-5713.911,16.71,-5712.524,18.82,2.11
+Active,Active,Active,INT3,-5709.954,12.05,-5713.916,13.76,-5712.5289,15.72,1.95
+Active,Active,Active,TS4,-5709.941,19.71,-5713.908,18.68,-5712.5171,23.15,4.47
+Active,Active,Active,INT4,-5709.963,5.99,-5713.93,4.82,-5712.5427,7.06,2.24
+Inactive fGln123,Inactive,Active,ES,-5709.922,0,-5713.9,0,,,
+Inactive fGln123,Inactive,Active,TS2,-5709.9,14.11,-5713.879,12.56,,,
+Inactive fGln123,Inactive,Active,TS3,-5709.898,15.24,-5713.871,17.65,,,
+Inactive fGln123,Inactive,Active,TS4,-5709.89,20.11,-5713.871,17.77,,,
+Inactive Val51,Active,Inactive,ES,-5709.9609,0,-5713.9296,0,,,
+Inactive Val51,Active,Inactive,TS2,-5709.9439,10.62,-5713.9139,9.82,,,
+Inactive Val51,Active,Inactive,TS3,-5709.9393,13.51,-5713.9033,16.47,,,
+Inactive Val51,Active,Inactive,TS4,-5709.9216,24.63,-5713.9026,16.89,,,
